@@ -1,5 +1,5 @@
 #  Password Manager
-Cool Password Manager in Tkinter with generate password and search feature.
+Cool Password Manager in Tkinter with generate password and search feature with exceptional handling.
 
 - Run main.py file to start application
 - Password will be save in json file format.
