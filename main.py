@@ -4,8 +4,6 @@ import random
 import pyperclip
 import json
 
-
-
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
 
@@ -43,6 +41,7 @@ def search():
     else:
         messagebox.showinfo(title='Website Found', message=f'Website : {website}\nPassword : {password}')
         pyperclip.copy(password)
+
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 
 
@@ -78,6 +77,7 @@ def save():
 
 
 # ---------------------------- UI SETUP ------------------------------- #
+
 window = Tk()
 window.title('Password Manager')
 window.config(padx=50, pady=50)
