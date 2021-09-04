@@ -4,6 +4,8 @@ import random
 import pyperclip
 import json
 
+
+
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
 
