@@ -8,4 +8,4 @@ Cool Password Manager in Tkinter with generate password and search feature with 
 - Duplicates website name are not allowed if done it will overwrite its password with new one.
 - Do not delete data.json file or else you will loose with all your password information 
 
-#### Don't forget to star this repository
+#### Star and fork this repository
